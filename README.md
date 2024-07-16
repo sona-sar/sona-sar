@@ -1,5 +1,5 @@
 <h1>Hi, I'm Sona Sargsyan👋</h1>
-<h3>A passionate Computer Science student at Glendale Community College.</h3>
+<h3>A passionate Computer Science student at Loyola Marymount University.</h3>
 
 
 📫 How to reach me **sargsyan.sona1.y@gmail.com**
